@@ -1,0 +1,6 @@
+{
+  "name": "Sales Call Revenue & Commission Analyzer",
+  "description": "MnP Sales Performance Analysis — Calculate revenue per call and AA commission per call by analyzing Google Sheets sales records across customizable date ranges for sales executives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
